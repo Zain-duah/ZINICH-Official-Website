@@ -1,0 +1,5 @@
+ZINICH brand colors
+Primary blue: #1677FF
+Light/dark logo charcoal: #202938
+Dark-mode logo text: #EAF0F8
+Use SVG as the preferred scalable master.
