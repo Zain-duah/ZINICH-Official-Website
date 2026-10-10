@@ -44,5 +44,7 @@ const CONTACT_WEBHOOK_URL = "https://script.google.com/.../exec";
 ## Deployment
 Deploy the static site to any hosting provider such as GitHub Pages, Netlify, or Vercel.
 
+The canonical URL in `index.html`, the sitemap entry in `sitemap.xml`, and the sitemap URL in `robots.txt` must all use the site's deployed public origin. Update them together if the production domain changes, then submit the sitemap URL in Google Search Console.
+
 ## License
 This project is for ZINICH internal use and deployment.
