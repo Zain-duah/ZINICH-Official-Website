@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zinich-solutions.vercel.app/sitemap.xml
+Sitemap: https://zinich.vercel.app/sitemap.xml
